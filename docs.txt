@@ -1,0 +1,22 @@
+baixar o template:
+git@github.com:creativetimofficial/material-kit.git
+
+ideias
+https://material.io/guidelines/material-design/material-properties.html
+https://www.uplabs.com/android
+
+fila:
+while (fila.leng! 0)
+fila.shift
+
+pilha
+while(pilha.length ! 0)
+ pop()
+ 
+ 
+ <ion-list>
+ 
+    <ion-input type="number">
+
+    </ion-input>
+ </ion-list>
